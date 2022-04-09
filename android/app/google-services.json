@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "934546697156",
+    "project_id": "dance-getx",
+    "storage_bucket": "dance-getx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934546697156:android:0f587f2c038013f29f1291",
+        "android_client_info": {
+          "package_name": "com.example.dance_styles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934546697156-ejv10kjfqvne86uo2ee89kg3bd2r9r4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT-OduDkTB0gPyzUjiDflOdaP1Yl_xxMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934546697156-ejv10kjfqvne86uo2ee89kg3bd2r9r4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
